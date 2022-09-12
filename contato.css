@@ -1,0 +1,33 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: 0px;
+    background-color: rgb(173, 153, 153);
+}
+header{
+    display: flex;
+    align-items: center;
+    background-color:rgb(133, 45, 45);
+    justify-content: space-evenly;
+}
+h1{
+    color: white;
+    font-family: 'Silkscreen', cursive;
+    font-size: 50px;
+    background-color: rgb(133, 45, 45);
+}
+ul{
+    
+  
+    list-style: none;
+    margin: 1%;
+    justify-content: space-between;
+    
+
+}
+h3#arroz{
+    font-size: 50px;
+}
+main{
+    background-color: rgb(173, 153, 153);
+}
