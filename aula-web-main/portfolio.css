@@ -1,0 +1,53 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: rgb(173, 153, 153) ;
+}
+
+header{
+    display: flex;
+    background-color:rgb(133, 45, 45);
+    align-items: center;
+}
+
+img#hero{
+    width: 200px ;
+    border-radius: 25%;
+    margin: 20px;
+}
+h1#hero{
+    color: rgb(255, 255, 255);
+    font-family: 'Silkscreen', cursive;
+    font-size: 50px;
+    background-color:rgb(133, 45, 45);
+    }
+    main{
+        background-color: rgb(173, 153, 153);
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    nav{
+        background-color: black;
+    }
+    li a{
+        color: white;
+        font-family: 'Silkscreen', cusive;
+        font-size: 30px;
+        width: 100px;
+        text-decoration: none;
+        background-color: black
+
+    }
+    footer{
+        background-color: rgb(173, 153, 153);
+    }
+    img#cv{
+        width: 200px ;
+        border-radius: 50%;
+    }
+    link{
+        display: none;
+    }
+    
